@@ -94,6 +94,7 @@ ever sent to a provider.
 python ioc_checker.py -a capture.pcap
 python ioc_checker.py -a network.log
 python ioc_checker.py -a indicators.csv
+python ioc_checker.py -a file.txt
 ```
 
 A completely different feature from `-f/--file`: instead of hashing one
